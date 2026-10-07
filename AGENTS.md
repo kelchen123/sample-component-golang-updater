@@ -61,4 +61,4 @@ intentionally. See `demo/cve-onboarding/README.md`.
 
 ## Fullsend retro
 
-When writing retro output (PR close or `/fs-retro`), read `skills/retro-filing-policy/SKILL.md`. Retro output (PR close or `/fs-retro`). Keep `proposals` empty unless the human comment explicitly says to file issues.
+When writing retro output (PR close or `/fs-retro`), read `skills/retro-filing-policy/SKILL.md`. Keep `proposals` empty unless the human comment explicitly says to file issues.
